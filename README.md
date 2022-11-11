@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VLKNKBKSZ
 - 👀 I’m interested in Java, Angular, Javascript , Rust, Spring, Quarkus, Micronaut, Apache Camel, MongoDB, MySQL, PostgresQL, RabbitMQ, Apache Kafka, C, C++, C#, Operating Systems, Azure Cloud, Amazon AWS, Dropwizard, and lots of more :D
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular 14 / MongoDB
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me due linkedin, or email.
 
